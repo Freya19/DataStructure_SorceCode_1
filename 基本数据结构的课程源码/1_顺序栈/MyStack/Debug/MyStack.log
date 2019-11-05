@@ -1,2 +1,0 @@
-﻿main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
-LINK : fatal error LNK1207: “G:\2_LearnMore\数据结构\课程所需源码\1_顺序栈\MyStack\Debug\MyStack.pdb”中的 PDB 格式不兼容；请删除并重新生成
