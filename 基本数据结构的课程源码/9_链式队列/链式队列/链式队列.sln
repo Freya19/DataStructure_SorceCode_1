@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链式队列", "链式队列.vcproj", "{4809D915-64C2-495B-A21A-545CEF784614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4809D915-64C2-495B-A21A-545CEF784614}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4809D915-64C2-495B-A21A-545CEF784614}.Debug|Win32.Build.0 = Debug|Win32
+		{4809D915-64C2-495B-A21A-545CEF784614}.Release|Win32.ActiveCfg = Release|Win32
+		{4809D915-64C2-495B-A21A-545CEF784614}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

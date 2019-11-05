@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "双向链表", "双向链表.vcproj", "{A36607F8-C5CC-4D77-B174-D9B0AD9F2016}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实用的双向链表", "..\实用的双向链表\实用的双向链表.vcproj", "{7AC27F3D-4BDC-4505-878E-049DBDC54D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36607F8-C5CC-4D77-B174-D9B0AD9F2016}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A36607F8-C5CC-4D77-B174-D9B0AD9F2016}.Debug|Win32.Build.0 = Debug|Win32
+		{A36607F8-C5CC-4D77-B174-D9B0AD9F2016}.Release|Win32.ActiveCfg = Release|Win32
+		{A36607F8-C5CC-4D77-B174-D9B0AD9F2016}.Release|Win32.Build.0 = Release|Win32
+		{7AC27F3D-4BDC-4505-878E-049DBDC54D4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AC27F3D-4BDC-4505-878E-049DBDC54D4F}.Debug|Win32.Build.0 = Debug|Win32
+		{7AC27F3D-4BDC-4505-878E-049DBDC54D4F}.Release|Win32.ActiveCfg = Release|Win32
+		{7AC27F3D-4BDC-4505-878E-049DBDC54D4F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
